@@ -1,12 +1,4 @@
-// “Diffie Hellman Implementation of Hash Functions”
 
-
-//instruction:- execute the code on this mentioned website
-// link- https://cloud.scilab.in
-
-
-
-// code-
 clc;
 
 g=7;
